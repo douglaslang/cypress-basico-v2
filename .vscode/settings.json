@@ -1,0 +1,5 @@
+{
+    "npm-scripts.showStartNotification": false,
+    "npm.enableRunFromFolder": true,
+    "npm.packageManager": "npm"
+}
